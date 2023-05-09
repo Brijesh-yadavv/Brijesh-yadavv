@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brijesh Yadav</h1>
-<h3 align="center">A passionate Application developer </h3>
+<h3 align="center">Data Roles... </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
-- 🌱 I’m currently learning **Flutter ,Firebase **
+- 🌱 I’m currently learning **Python Java Mongodb SQL NOsql **
 
 - 📫 How to reach me **brijeshyadavcs12@gmail.com**
 
