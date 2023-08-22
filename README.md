@@ -10,10 +10,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/brijesh-yadav-0237291a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brijesh-yadav-0237291a6/" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/user7202i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user7202i/" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/2001640100092_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/2001640100092_cs" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/brijeshyadavoff2200/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/brijeshyadavoff2200/practice/" height="30" width="40" /></a>
+  
 <a href="https://stackoverflow.com/users/16321462/brijesh-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16321462/brijesh-yadav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/brijesh_yadav1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/brijesh_yadav1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2001640100092_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/2001640100092_cs" height="30" width="40" /></a>
+
 
 </p>
 
