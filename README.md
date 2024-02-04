@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brijesh Yadav</h1>
 <h3 align="center">A passionate JAVA BACKEND DEVELOPER</h3>
-<img align="center" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="center" alt="coding" width="800" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh-yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh-yadavv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh-yadavv" alt="brijesh-yadavv" /></a> </p>
